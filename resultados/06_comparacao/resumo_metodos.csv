@@ -1,0 +1,6 @@
+"metodo","modelo_selecionado","n_ajuste","r2","syx_m","syx_pct","trocas_de_classe_total"
+"Curva-guia","Chapman-Richards",43,0.787387281547346,1.81183752206274,9.7204009293447,17
+"Diferença algébrica","ADA anamórfica (b0 livre)",34,0.857906445128193,1.12427371620635,5.61558782885501,18
+"Atribuição preliminar","Anamórfico (k constante)",43,0.958912430589385,0.786715889632029,4.22068412403958,18
+"Hammer","Assíntota por classe, forma comum",15,0.989162987350439,0.470100823104225,2.50646173456044,17
+"Predição de parâmetros","Alternativa B (b0, b2 livres)",43,0.961017856722338,0.795968137349284,4.27032188471855,20
